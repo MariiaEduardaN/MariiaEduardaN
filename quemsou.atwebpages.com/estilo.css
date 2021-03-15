@@ -1,0 +1,51 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+h1{
+    color: white;
+     text-shadow: 2px 2px 5px lightblue;
+      font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+i{
+        size: 10px;
+}
+.div1 {
+  width: 280px;
+  height: 280px;
+  border: 10px solid lightblue;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("nick.jpeg");
+  background-size: cover;
+  position: relative;
+  float: left;
+  clear:both;
+}
+.div2 {
+  width: 280px;
+  height: 280px;
+  border: 10px solid lightblue;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("danca.jpeg");
+  background-size: cover;
+  position:relative;
+  float:left;
+  color:white;
+}
+div{
+  display:table;
+}
+.div3 {
+  width: 280px;
+  height: 280px;
+  border: 10px solid lightblue;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("falling.jpeg");
+  background-size: cover;
+  position: relative;
+  float: left;
+}
